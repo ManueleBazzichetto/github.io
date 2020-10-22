@@ -12,7 +12,7 @@ My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interest
 - biogeography
 - species distribution modelling.
 
-Here a picture of me (when I had long hairs :blush:):
+Here a picture of me (when I had long hairs  :smile:):
 
 <img src="images/DSC_2169.jpg" width="300" />
 
