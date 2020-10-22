@@ -16,7 +16,7 @@ You can find my CV [**here**](https://github.com/ManueleBazzichetto/pers-website
 
 - **Twitter**: [**MBazzichetto**](https://twitter.com/MBazzichetto)
 - **ResearchGate**: [**Manuele Bazzichetto**](https://www.researchgate.net/search/publication?q=manuele%2Bbazzichetto)
-- **Publons**: [**Manuele Bazzichetto**]https://publons.com/researcher/1663283/manuele-bazzichetto/
+- **Publons**: [**Manuele Bazzichetto**](https://publons.com/researcher/1663283/manuele-bazzichetto/)
 
 ### _Other things_
 
