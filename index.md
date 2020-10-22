@@ -2,6 +2,9 @@
 layout: page
 ---
 
+[CV](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn}
+
+
 Welcome to my personal webpage (**still under construction** :hammer:)
 
 My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interested in:
