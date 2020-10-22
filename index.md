@@ -2,14 +2,14 @@
 layout: page
 ---
 
-## Welcome to my personal webpage (**still under construction** :construction_worker_man:)
+## Welcome to my personal webpage (**still under construction** :hammer:)
 
 My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interested in:
 - biological invasions
 - biogeography
 - species distribution modelling.
 
-Here a picture of me (when I had long hairs :slightly_smiling_face:):
+Here a picture of me (when I had long hairs :blush:):
 
 <img src="images/DSC_2169.jpg" width="300" />
 
