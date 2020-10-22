@@ -4,7 +4,7 @@ My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interest
 
 Here a picture of me (when I had long hairs :slightly_smiling_face:):
 
-![MB](images/DSC_2169.jpg)
+![MB](images/DSC_2169.jpgs=100)
 
 As soon as I can, I will share on this web-site all things related to my research and personal interests, and some R experiment.
 
