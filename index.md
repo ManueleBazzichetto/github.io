@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Welcome to my personal webpage (**still under construction** :hammer:)
+Welcome to my personal webpage (**still under construction** :hammer:)
 
 My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interested in:
 - biological invasions
