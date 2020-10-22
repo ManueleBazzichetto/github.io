@@ -2,7 +2,7 @@
 layout: page
 ---
 
-[CV](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn}
+[**_CV_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn}
 
 
 Welcome to my personal webpage (**still under construction** :hammer:)
