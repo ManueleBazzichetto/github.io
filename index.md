@@ -1,5 +1,7 @@
 ---
 layout: page
+title: "By learning to do the easy things the hard way, the hard things will become easy"
+tagline: Royale & Dorazio
 ---
 
 ## Welcome to my personal webpage (**still under construction** :construction_worker_man:)
