@@ -6,7 +6,7 @@ permalink: /PicsFromField/
 
 Following some pics taken in the field. It gets easier explaining about past experiences through good memories..
 
-<img src="images/DSC_0994.JPG" width="600" />
+<img src="images/IoeMarco.jpg" width="700" />
 
 Here I was with my colleague (and friend) [**Marco Malavasi**](https://www.researchgate.net/profile/Marco_Malavasi) at a nice italian beach. We were taking images with a UAV E-bee to remotely derive topographic (e.g. elevation, slope and so on) and bio-related (e.g. NDVI) information.
 My PhD thesis aimed at analysing the effect of natural and anthropogenic processes on coastal dune vegetation through the integration of field-collected floristic data and remotely sensed imagery.
@@ -25,6 +25,6 @@ Since the second half of my PhD, I started working on biological invasions. My a
 
 ##Put Carpo pic##
 
-<img src="images/IMG_20191121_171607.jpg" width="600" />
+<img src="images/IMG_20191121_171607.jpg" width="700" />
 
 [**_Home_**](https://manuelebazzichetto.github.io/pers-website/){: .btn}
