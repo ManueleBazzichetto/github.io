@@ -13,3 +13,5 @@ markdown: kramdown
 
 plugins:
   - jemoji
+
+theme: jekyll-theme-cayman
