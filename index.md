@@ -2,9 +2,7 @@
 layout: page
 ---
 
-[**_CV and contacts_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn}
-
-[**_Pics from the field_**](https://manuelebazzichetto.github.io/pers-website/PicsFromField/){: .btn}
+[**_CV and contacts_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn} [**_Pics from the field_**](https://manuelebazzichetto.github.io/pers-website/PicsFromField/){: .btn}
 
 
 Welcome to my personal webpage (**still under construction** :hammer: )
