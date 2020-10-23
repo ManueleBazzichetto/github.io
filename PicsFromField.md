@@ -25,6 +25,6 @@ Since the second half of my PhD, I started working on biological invasions. My a
 
 ##Put Carpo pic##
 
-<img src="images/IMG_20191121_171607.jpg" width="700" />
+<img src="images/IoeRemi.jpg" width="700" />
 
 [**_Home_**](https://manuelebazzichetto.github.io/pers-website/){: .btn}
