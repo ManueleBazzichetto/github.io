@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: "/images/IMG190409-074748F (2).JPG"
+cover-img: "https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IMG190409-074748F%20(2).JPG"
 ---
 
 [**_CV and contacts_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn} [**_Pics from the field_**](https://manuelebazzichetto.github.io/pers-website/PicsFromField/){: .btn}
