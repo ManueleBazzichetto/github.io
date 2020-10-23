@@ -8,6 +8,8 @@ Following some pics taken in the field. It gets easier explaining about past exp
 
 <img src="https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeMarco.jpg" width="500" />
 
+![Me and Marco](https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeMarco.jpg)
+
 Here I was with my colleague (and friend) [**Marco Malavasi**](https://www.researchgate.net/profile/Marco_Malavasi) at a nice italian beach. We were taking images with a UAV E-bee to remotely derive topographic (e.g. elevation, slope and so on) and bio-related (e.g. NDVI) information.
 My PhD thesis aimed at analysing the effect of natural and anthropogenic processes on coastal dune vegetation through the integration of field-collected floristic data and remotely sensed imagery.
 
@@ -26,5 +28,7 @@ Since the second half of my PhD, I started working on biological invasions. My a
 ##Put Carpo pic##
 
 <img src="https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeRemi.jpg" width="400" />
+
+![Me and Rémi](https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeRemi.jpg)
 
 [**_Home_**](https://manuelebazzichetto.github.io/pers-website/){: .btn}
