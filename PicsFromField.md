@@ -6,7 +6,7 @@ permalink: /PicsFromField/
 
 Following some pics taken in the field. It gets easier explaining about past experiences through good memories..
 
-<img src="images/IoeMarco.jpg" width="500" />
+<img src="images/DSC_2169.jpg" width="300" />
 
 ![Me and Marco](https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeMarco.jpg)
 
