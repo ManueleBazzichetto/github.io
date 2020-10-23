@@ -6,3 +6,4 @@ permalink: /PicsFromField/
 
 Following some pics taken in the field. It gets easier explaining about past experiences through good memories..
 
+<img src="images/" width="500" />
