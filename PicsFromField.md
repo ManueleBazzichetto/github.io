@@ -6,7 +6,7 @@ permalink: /PicsFromField/
 
 Following some pics taken in the field. It gets easier explaining about past experiences through good memories..
 
-<img src="images/DSC_2169.jpg" width="300" />
+<img src="images/IoeMarco.jpg" width="300" />
 
 ![Me and Marco](https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeMarco.jpg)
 
@@ -27,7 +27,7 @@ Since the second half of my PhD, I started working on biological invasions. My a
 
 ##Put Carpo pic##
 
-<img src="images/IoeRemi.jpg" width="400" />
+<img src="images/IoeRemi.jpg" width="300" />
 
 ![Me and Rémi](https://github.com/ManueleBazzichetto/pers-website/blob/main/images/IoeRemi.jpg)
 
