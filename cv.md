@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV and contacts
-description: none
+description: false
 permalink: /CV/
 ---
 
