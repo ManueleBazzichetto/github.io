@@ -14,4 +14,5 @@ plugins:
 theme: jekyll-theme-cayman
 
 github:
-  zip_url: https://manuelebazzichetto.github.io/pers-website/CV
+  zip_url: https://github.com/ManueleBazzichetto/pers-website
+  another_url: https://manuelebazzichetto.github.io/pers-website/CV
