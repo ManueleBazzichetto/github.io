@@ -1,6 +1,6 @@
 ---
 layout: page
-description: none
+description: false
 title: CV and contacts
 permalink: /CV/
 ---
