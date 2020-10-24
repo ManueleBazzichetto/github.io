@@ -1,6 +1,5 @@
 ---
-layout: page
-cover-img: {"images/Pingu.jpg" : "Penguins - Possession Island"}
+layout: keil
 ---
 
 [**_CV and contacts_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn} [**_Pics from the field_**](https://manuelebazzichetto.github.io/pers-website/PicsFromField/){: .btn}
