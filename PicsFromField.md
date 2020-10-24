@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pictures from the field
+description: none
 permalink: /PicsFromField/
 ---
 
@@ -26,5 +27,3 @@ Since the second half of my PhD, I started working on biological invasions. My a
 ##Put Carpo pic##
 
 ![Me and Rémi](images/IoeRemi.jpg)
-
-<img src="images/IoeRemi.jpg" width="400" />
