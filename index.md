@@ -3,7 +3,7 @@ layout: default
 tags: CV-contacts Pics-from-the-field
 ---
 
-[**_CV and contacts_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn} [**_Pics from the field_**](https://manuelebazzichetto.github.io/pers-website/PicsFromField/){: .btn}
+[**_CV and contacts_**](https://manuelebazzichetto.github.io/pers-website/CV/){: .btn .btn-green .mr-2 } [**_Pics from the field_**](https://manuelebazzichetto.github.io/pers-website/PicsFromField/){: .btn .btn-green}
 
 
 Welcome to my personal webpage (**still under construction** :hammer: )
