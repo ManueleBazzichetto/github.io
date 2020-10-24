@@ -12,3 +12,6 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: https://manuelebazzichetto.github.io/pers-website/CV
