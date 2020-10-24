@@ -14,5 +14,6 @@ plugins:
 theme: jekyll-theme-cayman
 
 github:
+  home_url: https://manuelebazzichetto.github.io/pers-website 
   cv_url: https://manuelebazzichetto.github.io/pers-website/CV
   pics_url: https://manuelebazzichetto.github.io/pers-website/PicsFromField
