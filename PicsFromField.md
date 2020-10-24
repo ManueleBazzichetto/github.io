@@ -27,4 +27,4 @@ Since the second half of my PhD, I started working on biological invasions. My a
 
 ![Me and Rémi](images/IoeRemi.jpg)
 
-[**_Home_**](https://manuelebazzichetto.github.io/pers-website/){: .btn}
+<img src="images/IoeRemi.jpg" width="400" />
