@@ -1,7 +1,6 @@
 ---
 layout: page
 title: CV and contacts
-description: 
 permalink: /CV/
 ---
 
