@@ -1,5 +1,6 @@
 title: "By learning to do the easy things the hard way, the hard things will become easy."
 subtitle: Royale and Dorazio
+show_downloads: true
 
 production_url: https://manuelebazzichetto.github.io/pers-website
 
@@ -10,5 +11,3 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-cayman
-
-show_downloads: true
