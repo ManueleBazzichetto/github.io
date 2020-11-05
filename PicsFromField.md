@@ -5,6 +5,7 @@ description: Manuele Bazzichetto
 permalink: /PicsFromField/
 ---
 
+
 Following, some pics taken in the field. Good memories are a perfect means to talk about past experiences..
 
 ![Me and Marco](images/IoeMarco_red.jpg)
