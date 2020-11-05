@@ -25,7 +25,7 @@ __Spoiler__: we investigated which among human-related, abiotic and biotic facto
 
 __Spoiler__: we explored the effect of shoreline dynamics (erosion and accretion) on dune vegetation diversity.
 
-![_Carpobrotus_ sp.](images/Carpo.jpg)
+![_Carpobrotus_ sp.](images/Carpo.jpeg)
 Pic: [_Marta Gaia Sperandii_](https://www.researchgate.net/profile/Marta_Gaia_Sperandii)
 
 Half of the PhD focused on biological invasions. Specifically, my aim was to 1) use remote sensing data to derive measures of propagule pressure, abiotic and biotic factors, which are known to simultaneously affect the outcome of any invasion event (see [___Catford et al., 2009___](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1472-4642.2008.00521.x) for a wonderful review) and 2) use the obtain information to model the distribution of _Carpobrotus_ sp. on Mediterranean coastal dunes. Here a picture of this nice yet invasive plant, whcih is native to South Africa.
