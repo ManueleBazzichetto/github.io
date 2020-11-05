@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CV and contacts
 description: Manuele Bazzichetto
 permalink: /CV/
