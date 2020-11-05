@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Pictures from the field
-description: none
 permalink: /PicsFromField/
 ---
 
