@@ -11,7 +11,7 @@ You can find my CV [**here**](https://github.com/ManueleBazzichetto/pers-website
 
 ### _Contacts_:
 
-- **University of Rennes 1**: manuele.bazzichetto[at]univ-rennes1.fr (this e-mail will be desabled in 2/3 months)
+- **University of Rennes 1**: manuele.bazzichetto[at]univ-rennes1.fr (this e-mail will be disabled in 2/3 months)
 - **Personal e-mail address**: manuele.bazzichetto[at]gmail.com
 
 ### _Other channels to get in touch with me_:
