@@ -6,14 +6,17 @@ layout: default
 
 Welcome to my personal webpage (**still under construction** :hammer: )
 
-My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interested in:
-- biological invasions
-- biogeography
-- species distribution modelling.
+My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling.
 
-Here a picture of me (when I had long hairs  :smile: ):
+I come from Rome (Italy) and did all my studies there.
+
+Here is a picture of me (when I had long hairs  :smile: ):
 
 <img src="images/DSC_2169.jpg" width="300" />
 
-As soon as I can, I will share on this web-site all things related to my research and personal interests, and some R experiment.
+In this website, you will find some info about me and my research.
+
+As soon as I can, I will share some contents related to R experiments. I love working with R and do things with it to test my understanding of statistical concepts.
+
+
 
