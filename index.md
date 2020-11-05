@@ -1,4 +1,6 @@
 ---
+title: "By learning to do the easy things the hard way, the hard things will become easy"
+description: Royale & Dorazio
 layout: default
 ---
 
