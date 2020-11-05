@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV and contacts
+description: Manuele Bazzichetto
 permalink: /CV/
 ---
 
