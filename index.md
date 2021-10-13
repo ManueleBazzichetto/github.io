@@ -4,19 +4,13 @@ description: Royale & Dorazio
 layout: default
 ---
 
-Welcome to my personal webpage (**still under construction** :hammer: )
+Welcome to my personal webpage!
 
-My name is Manuele Bazzichetto, and I am a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling.
-
-I come from Rome (Italy) and did all my studies there.
-
-Here is a picture of me (when I had long hairs  :smile: ):
+My name is Manuele Bazzichetto, I am from Rome (Italy), and I am a vegetation ecologist broadly interested in biological invasions, biogeography, species distribution modelling. Here is a picture of me (when I had long hairs  :smile: ):
 
 <img src="images/DSC_2169.jpg" width="300" />
 
-In this website, you will find some info about me and my research.
+At the momemnt, I am a visiting researcher at CIDE [https://www.csic.es/en/investigacion/institutos-centros-y-unidades/desertification-research-centre](https://www.csic.es/en/investigacion/institutos-centros-y-unidades/desertification-research-centre) where I am collaborating with Francesco de Bello for investigating how central European grasslands respond to extreme climatic conditions. 
 
-As soon as I can, I will share some contents related to R experiments. I love working with R and do things with it to test my understanding of statistical concepts.
-
-
+I like stats, spatial analysis and creating maps (see an example here) []()
 
