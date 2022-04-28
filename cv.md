@@ -7,7 +7,7 @@ permalink: /CV/
 
 ### _CV_
 
-You can find my CV [**here**](https://github.com/ManueleBazzichetto/pers-website/tree/main/CVfolder/ManueleBazzichettoCV.pdf) (last update: 10/10/2020)
+You can find my CV [**here**](https://github.com/ManueleBazzichetto/pers-website/tree/main/CVfolder/ManueleBazzichettoCV.pdf) (last update: 28/04/2022)
 
 ### _Contacts_:
 
