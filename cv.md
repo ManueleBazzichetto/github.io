@@ -2,6 +2,7 @@
 layout: default
 title: CV and contacts
 description: Manuele Bazzichetto
+background: '/images/Campotosto.jpeg'
 permalink: /CV/
 ---
 
