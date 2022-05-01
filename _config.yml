@@ -1,5 +1,6 @@
 show_downloads: true
 darkmode: true
+hide_first_title: true
 
 production_url: https://manuelebazzichetto.github.io/pers-website
 
