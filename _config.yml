@@ -1,6 +1,13 @@
 show_downloads: true
 darkmode: true
 hide_first_title: true
+colors:
+    gradient_left: "#FF3333"
+    gradient_right: "#DAC0C0"
+    header: "#000000"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
 
 production_url: https://manuelebazzichetto.github.io/pers-website
 
