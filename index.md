@@ -1,6 +1,4 @@
 ---
-title: "By learning to do the easy things the hard way, the hard things will become easy"
-description: Royale & Dorazio
 background: '/images/Campotosto.jpeg'
 layout: default
 ---
@@ -16,4 +14,6 @@ At the moment, I am a visiting researcher at [CIDE](https://www.csic.es/en/inves
 From October 2022, I will be a MSCA fellow at the Czech University of Life Sciences, wehere I will be investigating with [Petr Keil](https://petrkeil.github.io/website//) how extreme climatic events affect the temporal stability of vegetation communities! Our project is named COCOS (effects of Climatic extremes On eCOsystem Stability), and I will be soon posting news and info about it. 
 
 A few words about what I like: stats, spatial analysis, coding in R, and creating maps (see an example here [LOTVS map](https://manuelebazzichetto.github.io/LOTVS_MAP/)).
+
+_"By learning to do the easy things the hard way, the hard things will become easy"_ (Royale & Dorazio)
 
