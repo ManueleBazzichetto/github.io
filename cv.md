@@ -1,8 +1,7 @@
 ---
 layout: default
 title: CV and contacts
-description: Manuele Bazzichetto
-background: '/images/Campotosto.jpeg'
+description: Where to find me
 permalink: /CV/
 ---
 
