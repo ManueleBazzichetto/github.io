@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pictures from the field
-description: Manuele Bazzichetto
+description: Old memories (and gone projects)
 permalink: /PicsFromField/
 ---
 
