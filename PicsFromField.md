@@ -50,4 +50,4 @@ One of the otucomes of this experience is here:
 
 - [**Once upon a time in the south: Influence of local drivers and functional traits on plant invasion in the harsh sub-Antarctic islands**](https://doi.org/10.1111/jvs.13057)
 
-__Spoiler__: We found out that short, perennial plants with a longer residence time were better able to colonise Possession Island (Crozet Archipelago) than tall, annual plants with a shorter residence time.
+__Spoiler__: We found out that short, perennial plants with a longer residence time were better able to colonise Possession Island (Crozet Archipelago) than tall, annual plants with a shorter residence time. Jonas Lembrechts, who co-authored the paper, wrote down a very cool piece to summarise our findings. Have a look at it: [https://the3dlab.org/2021/07/12/non-natives-at-the-end-of-the-world/](https://the3dlab.org/2021/07/12/non-natives-at-the-end-of-the-world/)
