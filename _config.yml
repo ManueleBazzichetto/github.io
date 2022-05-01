@@ -9,6 +9,7 @@ plugins:
   - jemoji
 
 theme: jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
 
 github:
   home_url: https://manuelebazzichetto.github.io/pers-website 
