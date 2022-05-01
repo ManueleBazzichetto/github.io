@@ -1,6 +1,6 @@
 ---
 title: Hello, here is Manuele Bazzichetto
-description: this is my personal webpage
+description: This is my personal webpage
 background: '/images/Campotosto.jpeg'
 layout: default
 ---
