@@ -19,14 +19,11 @@ header {
             to top right,
             black, #076e1d
         );
-}
-
-.image {
-    background-image: url("https://github.com/ManueleBazzichetto/pers-website/blob/main/images/Fox.jpeg");
+    opacity: 0.6;
 }
 
 body {
     background: #a3b5aa;
-    font-color: #000000;
+    color: #000000;
     font-family: "Arial";
 }
