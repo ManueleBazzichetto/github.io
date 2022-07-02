@@ -3,23 +3,22 @@
 
 @import 'jekyll-theme-cayman';
 
-header {   
-    background: #000000; 
+header {
     h1 {
-        color: #b3b312;
+        color: #7d8510;
     }
     h2 {
-        color: #124507;
+        color: #7d8510;
     }
 }
 
 .page-header {
-    height: 100px;
-    background-color: red;
+    height: 200px;
+    background-color: black;
     background-image:
         linear-gradient(
             to top right,
-            red, #f06d06
+            black, #076e1d
         );
 }
 
