@@ -16,5 +16,3 @@ From October 2022, I will be a MSCA fellow at the Czech University of Life Scien
 
 A few words about what I like: stats, spatial analysis, coding in R, and creating maps (see an example here [LOTVS map](https://manuelebazzichetto.github.io/LOTVS_MAP/)).
 
-_"By learning to do the easy things the hard way, the hard things will become easy"_ (Royale & Dorazio)
-
