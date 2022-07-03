@@ -22,6 +22,12 @@ header {
     opacity: 0.85;
 }
 
+.hero {
+  .feature-img: {
+    max-width: 100%;
+  }
+}
+
 body {
     background: #a3b5aa;
     color: #000000;
