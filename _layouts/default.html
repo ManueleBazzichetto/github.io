@@ -26,17 +26,14 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <div class="hero-image">
-        <img src=".images/Pingu.jpg">
-        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        {% if site.show_downloads %}
-        <a href="{{ site.github.home_url }}" class="btn">Home</a>
-        <a href="{{ site.github.cv_url }}" class="btn">CV and Contacts</a>
-        <a href="{{ site.github.pics_url }}" class="btn">Pics from the field</a>
-        <a href="{{ site.github.blog_url }}" class="btn">Blog</a>
-        {% endif %}
-      </div>
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if site.show_downloads %}
+      <a href="{{ site.github.home_url }}" class="btn">Home</a>
+      <a href="{{ site.github.cv_url }}" class="btn">CV and Contacts</a>
+      <a href="{{ site.github.pics_url }}" class="btn">Pics from the field</a>
+      <a href="{{ site.github.blog_url }}" class="btn">Blog</a>
+      {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">
